@@ -1,0 +1,88 @@
+# txt mesh model
+
+$Surfaces
+<surface tag> <surface name>
+<surface tag> <surface name>
+$EndSurfaces
+
+$SurfacesElements
+<number of surfaces>
+<surface tag>
+<element tag> <element tag>
+<surface tag>
+<element tag> <element tag>
+$EndSurfacesElements
+
+$Boundaries
+<boundary tag> <boundary name>
+<boundary tag> <boundary name>
+$EndBoundaries
+
+$BoundariesNodes
+<number of boundaries>
+<boundary tag>
+<node tag> <node tag>
+<boundary tag>
+<node tag> <node tag>
+$EndBoundariesNodes
+
+$Nodes
+<node tag> <x node coordinate> <y node coordinate>
+<node tag> <x node coordinate> <y node coordinate>
+$EndNodes
+
+$Elements
+<connectivity orientation>
+<element tag> <#1 node tag> <#2 node tag> <#3 node tag> <#4 node tag>
+<element tag> <#1 node tag> <#2 node tag> <#3 node tag> <#4 node tag>
+$EndElements
+
+
+
+# Surfaces: this section lists the surfaces on the mesh
+#
+# <surface tag>	: (int) numerical tag for surface identification
+#
+# <surface name>: (str) surface's name
+
+# SurfacesElements: this section lists the elements contained in each surface
+#
+# <number of surfaces>	: (int) total number of surfaces
+#
+# <surface tag>		: (int) surface wich will have its elements listed below
+#
+# <element tag>		: (int) tag of elements in the surface, separeted by a space
+
+# Boundaries: this section lists the boundary conditions
+#
+# <boundary tag>	: (int) numerical tag for boundary identification
+#
+# <boundary name>	: (str) boundary's name
+
+# BoundariesNodes: this section lists the nodes contained in each boundary condition
+#
+# <number of boundaries>	: (int) total number of boundary conditions
+#
+# <boundary tag>		: (int) boundary wich will have its nodes listed below
+#
+# <node tag>			: (int) tag of nodes in the boundary, separeted by a space
+
+# Nodes: this section lists the nodes on the mesh
+#
+# <node tag>		: (int) numerical tag for node identification
+#
+# <x node coordinate>	: (float) node's x coordinate
+#
+# <y node coordinate>	: (float) node's y coordinate
+
+# Elements: this section lists the elements on the mesh
+#
+# <connectivity orientation>	: (str) elements connectivity orientation, C for clockwise or CC for counter clockwise
+#
+# <element tag>			: (int) numerical tag for element identification
+#
+# <# node tag>			: (int) tag of nodes of element
+
+# Sections can be moved
+# tags don't need to be listed linearly
+# model based on gmsh .msh 4.0 model

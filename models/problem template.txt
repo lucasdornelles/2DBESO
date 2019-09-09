@@ -1,0 +1,49 @@
+[Problem Template]
+
+Optimizer=<optimizer>
+EvolutionaryRate=<evolutionary rate>
+MinimumDensity=<minimum density>
+Penalty=<penalty>
+MinimumAreaRatio=<minimum area ratio>
+FilterRadius=<filter radius>
+
+PlotType=<plot type>
+PrintAll=<print all>
+DPI=<dot per inch>
+
+Surfaces=<surfaces names>
+SurfacesType=<surfaces type>
+Boundaries=<boundaries names>
+BoundariesType=<boundaries type>
+BoundariesValues=<boundaries values>
+Thickness=<elements thickness>
+YoungModule=<material young module>
+PoissonRatio=<material poisson ratio>
+
+UseParalellism=<use paralellism>
+Treads=<treads>
+Chuncksize=<chuncksize>
+
+# <optmizer>	: str; optimizer to be used, BESO or ESO (whithout "")
+# <evolutionary rate>	: float; ESO or BESO evolutionary rate (usualy 0.01 for ESO and 0.02 for BESO)
+# <minimum density>	: float; minimum elements density (usualy 0.001)
+# <penalty>	: float; material interpolation penalty (usualy 3)
+# <filter radius>	: float; sensibilities filter radius in meters
+# 
+# <plot type>	: str; what use as plot's colormap, "mises" for elements von mises and "sensibilities" for elements sensibilities (whithout "")
+# <print all>	: int; print every iteration design, 1 to yes an 0 to no
+# <dots per inch>	: int; plot dots per inch, resolution
+#
+# <surfaces names>	: str, list; a list of surfaces names, use same as mesh file
+# <surfaces type>	: int, list: a list of surfaces types, same lenght as surfaces names, 0 for passive surfaces and 1 for design domain
+# <boundaries names>	: str, list: a list of boundaries name, use every non surface gmesh phical groups or txt mesh boundaries
+# <boundaries type>	: int, list: a list of boundaries type, same lenght as boundary names, 0 for force and 1 for displacements
+# <boundaries values>	: float, list: a list of boundaries values, two values per boundary name (x value and y value), use "null"(whithout "") to not define a value
+#			  values can be grouped with "[]" for beter visualisation
+# <elements thickness>	: float; domain z thickness
+# <material young module>	: float; material young module
+# <material poisson ratio>	: float; material poisson ratio
+#
+# <use paralellism>	: int; use multy treading, 1 for yes and 0 for no
+# <treads>	: int; number of threads, use "default" (whitout "") to use the number of cores
+# <chuncksize>	: int; number of operations per thread, higher numbers are faster but estimated time becomes insprecise, "default" (without "") uses number of elements/number of threads

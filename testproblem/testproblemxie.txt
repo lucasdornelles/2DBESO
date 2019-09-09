@@ -1,0 +1,27 @@
+[2D BESO]
+
+Optimizer=BESO
+EvolutionaryRate=0.02
+MinimumDensity=0.001
+Penalty=3
+MinimumAreaRatio=0.5
+FilterRadius=0.00301
+FilterType=abs
+
+PlotType=sensibilities
+PrintAll=1
+DPI=300
+SaveNewMesh=0
+
+Surfaces=designdomain1 designdomain2
+SurfacesType=1 1
+Boundaries=force disp
+BoundariesType= 0 1
+BoundariesValues= [null -1] 0 0
+Thickness=0.001
+YoungModule=1000000
+PoissonRatio=0.3
+
+UseParalellism=1
+Treads=default
+Chuncksize=250

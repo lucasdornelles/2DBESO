@@ -1,0 +1,25 @@
+[2D BESO]
+
+Optimizer=BESO
+EvolutionaryRate=0.02
+MinimumDensity=0.001
+Penalty=3
+MinimumAreaRatio=0.3
+FilterRadius=0.012
+
+PlotType=mises
+PrintAll=0
+DPI=300
+
+Surfaces=allsurfaces
+SurfacesType=1
+Boundaries=disp1 force1 force2 disp2 force3
+BoundariesType= 1 0 0 1 0
+BoundariesValues= [0 0] [-69.2 -71] [-200 -1960] [0 0] [-406 274]
+Thickness=0.004
+YoungModule=68900000000
+PoissonRatio=0.3
+
+UseParalellism=1
+Treads=default
+Chuncksize=250

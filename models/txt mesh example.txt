@@ -1,0 +1,81 @@
+#.txt mesh example
+
+$Surfaces
+1 surface1
+2 surface2
+$EndSurfaces
+
+$SurfacesElements
+2
+1
+1 2
+2
+3 4
+$EndSurfacesElements
+
+$Boundaries
+1 boundary1
+2 boundary2
+$EndBoundaries
+
+$BoundariesNodes
+2
+1
+1 2
+2
+3 4
+$EndBoundariesNodes
+
+$Nodes
+1 0.0 0.0
+2 1.0 0.0
+3 2.0 0.0
+4 2.0 1.0
+5 2.0 2.0
+6 1.0 2.0
+7 0.0 2.0
+8 0.0 1.0
+9 1.0 1.0
+$EndNodes
+
+$Elements
+C
+1 1 2 9 8
+2 2 3 4 9
+3 9 4 5 6
+4 8 9 6 7
+$EndElements
+
+
+mesh
+(7)----(6)----(5) (#) nodes
+ |      |      |  [#] elements
+ |  [4] |  [3] |
+ |      |      |
+(8)----(9)----(4)
+ |      |      |
+ |  [1] |  [2] |
+ |      |      |
+(1)----(2)----(3)
+
+surfaces
+(8)----(9)----(4)
+ |      |      |
+ |  [1] |  [2] |  surface1
+ |      |      |
+(1)----(2)----(3)
+
+(7)----(6)----(5) 
+ |      |      |  
+ |  [4] |  [3] |  surface2
+ |      |      |
+(8)----(9)----(4)
+
+boundaries
+(1)----(2) boundary1
+
+(4)
+ |
+ |  boundary2
+ |
+(3)
