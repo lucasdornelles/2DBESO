@@ -1,10 +1,10 @@
-####2DBESO
+#### 2DBESO
 
 
 Ferramenta de otimização topológica utilizando os métodos de otimização estrutural evolucionária softkill (ESO softkill) e otimização estrutural evolucionária bidirecional softkill (BESO softkill) para a minimização da energia de deformação de estruturas estáticas no estado plano de tensões com restrição de volume. A ferramenta foi desenvolvida utilizando a linguagem computacional python e dividida em diversos módulos responsáveis pela definição das funções referentes as metodologias e funcionalidades implementadas. Foi implementada também, compatibilidade com malhas geradas pelo programa open-source Gmsh e um modelo de malha em txt foi desenvolvido para dar mais versatilidade a ferramenta.
 
 
-#####Dependencias
+##### Dependencias
 
 Ultima versão verificada dos pacotes do qual o aplicativo é dependente:
 
@@ -15,7 +15,7 @@ Ultima versão verificada dos pacotes do qual o aplicativo é dependente:
 * tqdm 4.25.0
 
 
-#####Utilization
+##### Utilization
 
 Para utilizar a ferramenta é necessário possuir um interpretador de python instalado com as bibliotecas apresentadas na seção anterior.
 
@@ -46,6 +46,6 @@ Os parâmetros, tipo de variáveis e descrições são apresentadas abaixo, send
 * Treads: int, número de processos paralelos gerados pelo programa, deve ser definido mesmo que UseParalellism seja 0, utilizar “default” (sem aspas) para utilizar o número de processadores.
 * Chuncksize: int, número de elementos analisados por processo, quanto maior este número mais rápido será a execução da função e menos precisa será a estimativa de tempo, esta variável deve ser definida mesmo que UseParalellism seja 0, utilizar “default” (sem aspas) para utilizar o número de elementos divido pelo número de processos.
 
-#####Modelo de malha em txt
+##### Modelo de malha em txt
 
 O modelo de malha em “txt” foi desenvolvido para permitir o uso de outros geradores de malha na ferramenta. A formatação do modelo “txt” foi inspirado pelo modelo de malha gerado pelo programa open-sourse Gmsh, contendo listas de superfícies, condições de contorno, nós e elementos. Um template e exemplo do modelo de malha podem ser encontrados na pasta “models” distribuída em conjunto com o programa. É importante notar que as tags identificadoras dos nós e elementos utilizadas no modelo não precisam ser numeradas linearmente.
