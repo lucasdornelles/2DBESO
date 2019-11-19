@@ -1,0 +1,2094 @@
+2D Bidirectional Evolutionary Structural Optimization
+Initializing
+Importing files
+done
+Getting proprieties
+Getting elements area
+Process time: 0.072991 seconds
+Getting elements centers
+Getting elements on filtering radius
+Process time: 109.812999 seconds
+Getting filtering weights
+Process time: 28.895000 seconds
+Getting minimum area
+Process time: 0.001001 seconds
+Getting plot triangulationProcess time: 0.177001 seconds
+Proprieties done
+Getting local matrix list
+Process time: 28.773998 seconds
+
+Getting global matrix
+Process time: 18.631002 seconds
+
+Applying boundary conditions
+Process time: 0.000000 seconds
+
+Solving FEM
+Process time: 7.309003 seconds
+
+Solving sensibilities
+Process time: 1.822997 seconds
+
+Filtering sensibilities
+Process time: 2.901000 seconds
+
+Plotting initial designProcess time: 2.066000 seconds
+
+Initializing iterations
+
+-------------------------------------------------------------------
+Iteration 1
+
+Updating elements density
+Process time: 0.528000 seconds
+
+Updating global matrix
+Process time: 0.319998 seconds
+
+Solving FEM
+Process time: 7.088001 seconds
+
+Solving sensibilities
+Process time: 1.491001 seconds
+
+Filtering sensibilities
+Process time: 2.905000 seconds
+
+Compliance: 0.108667
+New area: 0.405552
+Iteration 1 time: 12.333000
+
+
+-------------------------------------------------------------------
+Iteration 2
+
+Updating elements density
+Process time: 0.529001 seconds
+
+Updating global matrix
+Process time: 0.262001 seconds
+
+Solving FEM
+Process time: 6.940000 seconds
+
+Solving sensibilities
+Process time: 1.484003 seconds
+
+Filtering sensibilities
+Process time: 3.159996 seconds
+
+Compliance: 0.108682
+New area: 0.397440
+Iteration 2 time: 12.379999
+
+
+-------------------------------------------------------------------
+Iteration 3
+
+Updating elements density
+Process time: 0.486999 seconds
+
+Updating global matrix
+Process time: 0.258001 seconds
+
+Solving FEM
+Process time: 6.932000 seconds
+
+Solving sensibilities
+Process time: 1.484003 seconds
+
+Filtering sensibilities
+Process time: 2.874996 seconds
+
+Compliance: 0.108730
+New area: 0.389488
+Iteration 3 time: 12.039000
+
+
+-------------------------------------------------------------------
+Iteration 4
+
+Updating elements density
+Process time: 0.460001 seconds
+
+Updating global matrix
+Process time: 0.255000 seconds
+
+Solving FEM
+Process time: 7.119000 seconds
+
+Solving sensibilities
+Process time: 1.485001 seconds
+
+Filtering sensibilities
+Process time: 2.902998 seconds
+
+Compliance: 0.108840
+New area: 0.381712
+Iteration 4 time: 12.224000
+
+
+-------------------------------------------------------------------
+Iteration 5
+
+Updating elements density
+Process time: 0.439000 seconds
+
+Updating global matrix
+Process time: 0.248008 seconds
+
+Solving FEM
+Process time: 7.489993 seconds
+
+Solving sensibilities
+Process time: 1.486997 seconds
+
+Filtering sensibilities
+Process time: 2.931000 seconds
+
+Compliance: 0.109052
+New area: 0.374080
+Iteration 5 time: 12.597001
+
+
+-------------------------------------------------------------------
+Iteration 6
+
+Updating elements density
+Process time: 0.438001 seconds
+
+Updating global matrix
+Process time: 0.241999 seconds
+
+Solving FEM
+Process time: 7.134001 seconds
+
+Solving sensibilities
+Process time: 1.488002 seconds
+
+Filtering sensibilities
+Process time: 2.915998 seconds
+
+Compliance: 0.109383
+New area: 0.366592
+Iteration 6 time: 12.221001
+
+
+-------------------------------------------------------------------
+Iteration 7
+
+Updating elements density
+Process time: 0.431002 seconds
+
+Updating global matrix
+Process time: 0.238997 seconds
+
+Solving FEM
+Process time: 7.147001 seconds
+
+Solving sensibilities
+Process time: 1.497003 seconds
+
+Filtering sensibilities
+Process time: 3.216996 seconds
+
+Compliance: 0.110013
+New area: 0.359264
+Iteration 7 time: 12.532998
+
+
+-------------------------------------------------------------------
+Iteration 8
+
+Updating elements density
+Process time: 0.414999 seconds
+
+Updating global matrix
+Process time: 0.254000 seconds
+
+Solving FEM
+Process time: 6.985000 seconds
+
+Solving sensibilities
+Process time: 1.512001 seconds
+
+Filtering sensibilities
+Process time: 2.990999 seconds
+
+Compliance: 0.110901
+New area: 0.352064
+Iteration 8 time: 12.160001
+
+
+-------------------------------------------------------------------
+Iteration 9
+
+Updating elements density
+Process time: 0.427998 seconds
+
+Updating global matrix
+Process time: 0.259000 seconds
+
+Solving FEM
+Process time: 7.157000 seconds
+
+Solving sensibilities
+Process time: 1.502000 seconds
+
+Filtering sensibilities
+Process time: 2.929003 seconds
+
+Compliance: 0.111744
+New area: 0.345024
+Iteration 9 time: 12.278003
+
+
+-------------------------------------------------------------------
+Iteration 10
+
+Updating elements density
+Process time: 0.427001 seconds
+
+Updating global matrix
+Process time: 0.257004 seconds
+
+Solving FEM
+Process time: 6.805995 seconds
+
+Solving sensibilities
+Process time: 1.516001 seconds
+
+Filtering sensibilities
+Process time: 2.890000 seconds
+
+Compliance: 0.112702
+New area: 0.338128
+Iteration 10 time: 11.898997
+
+
+-------------------------------------------------------------------
+Iteration 11
+
+Updating elements density
+Process time: 0.428000 seconds
+
+Updating global matrix
+Process time: 0.266000 seconds
+
+Solving FEM
+Process time: 6.992000 seconds
+
+Solving sensibilities
+Process time: 1.510999 seconds
+
+Filtering sensibilities
+Process time: 2.943000 seconds
+
+Compliance: 0.113509
+New area: 0.331360
+Iteration 11 time: 12.143998
+
+
+-------------------------------------------------------------------
+Iteration 12
+
+Updating elements density
+Process time: 0.419998 seconds
+
+Updating global matrix
+Process time: 0.244001 seconds
+
+Solving FEM
+Process time: 7.056000 seconds
+
+Solving sensibilities
+Process time: 1.661003 seconds
+
+Filtering sensibilities
+Process time: 3.009996 seconds
+
+Compliance: 0.114453
+Convergence: 0.010772
+New area: 0.324736
+Iteration 12 time: 12.394000
+
+
+-------------------------------------------------------------------
+Iteration 13
+
+Updating elements density
+Process time: 0.407999 seconds
+
+Updating global matrix
+Process time: 0.252998 seconds
+
+Solving FEM
+Process time: 6.981002 seconds
+
+Solving sensibilities
+Process time: 1.487000 seconds
+
+Filtering sensibilities
+Process time: 2.922004 seconds
+
+Compliance: 0.115546
+Convergence: 0.014183
+New area: 0.318240
+Iteration 13 time: 12.053003
+
+
+-------------------------------------------------------------------
+Iteration 14
+
+Updating elements density
+Process time: 0.413997 seconds
+
+Updating global matrix
+Process time: 0.257000 seconds
+
+Solving FEM
+Process time: 6.958000 seconds
+
+Solving sensibilities
+Process time: 1.496999 seconds
+
+Filtering sensibilities
+Process time: 2.926000 seconds
+
+Compliance: 0.116480
+Convergence: 0.017292
+New area: 0.311888
+Iteration 14 time: 12.053996
+
+
+-------------------------------------------------------------------
+Iteration 15
+
+Updating elements density
+Process time: 0.414000 seconds
+
+Updating global matrix
+Process time: 0.247003 seconds
+
+Solving FEM
+Process time: 6.911996 seconds
+
+Solving sensibilities
+Process time: 1.535000 seconds
+
+Filtering sensibilities
+Process time: 2.892000 seconds
+
+Compliance: 0.117400
+Convergence: 0.019766
+New area: 0.305664
+Iteration 15 time: 12.003001
+
+
+-------------------------------------------------------------------
+Iteration 16
+
+Updating elements density
+Process time: 0.559016 seconds
+
+Updating global matrix
+Process time: 0.321983 seconds
+
+Solving FEM
+Process time: 7.186002 seconds
+
+Solving sensibilities
+Process time: 1.504000 seconds
+
+Filtering sensibilities
+Process time: 2.951000 seconds
+
+Compliance: 0.118259
+Convergence: 0.021598
+New area: 0.299536
+Iteration 16 time: 12.526001
+
+
+-------------------------------------------------------------------
+Iteration 17
+
+Updating elements density
+Process time: 0.406999 seconds
+
+Updating global matrix
+Process time: 0.223001 seconds
+
+Solving FEM
+Process time: 7.402001 seconds
+
+Solving sensibilities
+Process time: 1.731999 seconds
+
+Filtering sensibilities
+Process time: 2.872000 seconds
+
+Compliance: 0.119250
+Convergence: 0.022646
+New area: 0.293536
+Iteration 17 time: 12.638000
+
+
+-------------------------------------------------------------------
+Iteration 18
+
+Updating elements density
+Process time: 0.409999 seconds
+
+Updating global matrix
+Process time: 0.204000 seconds
+
+Solving FEM
+Process time: 7.047000 seconds
+
+Solving sensibilities
+Process time: 1.513000 seconds
+
+Filtering sensibilities
+Process time: 2.953003 seconds
+
+Compliance: 0.120204
+Convergence: 0.023269
+New area: 0.287680
+Iteration 18 time: 12.131003
+
+
+-------------------------------------------------------------------
+Iteration 19
+
+Updating elements density
+Process time: 0.411001 seconds
+
+Updating global matrix
+Process time: 0.208004 seconds
+
+Solving FEM
+Process time: 6.933997 seconds
+
+Solving sensibilities
+Process time: 1.536996 seconds
+
+Filtering sensibilities
+Process time: 2.925002 seconds
+
+Compliance: 0.121476
+Convergence: 0.023626
+New area: 0.281920
+Iteration 19 time: 12.017998
+
+
+-------------------------------------------------------------------
+Iteration 20
+
+Updating elements density
+Process time: 0.411999 seconds
+
+Updating global matrix
+Process time: 0.233999 seconds
+
+Solving FEM
+Process time: 7.019001 seconds
+
+Solving sensibilities
+Process time: 1.534000 seconds
+
+Filtering sensibilities
+Process time: 3.167000 seconds
+
+Compliance: 0.122530
+Convergence: 0.023639
+New area: 0.276288
+Iteration 20 time: 12.367999
+
+
+-------------------------------------------------------------------
+Iteration 21
+
+Updating elements density
+Process time: 0.408998 seconds
+
+Updating global matrix
+Process time: 0.221001 seconds
+
+Solving FEM
+Process time: 6.993002 seconds
+
+Solving sensibilities
+Process time: 1.518996 seconds
+
+Filtering sensibilities
+Process time: 2.926999 seconds
+
+Compliance: 0.123543
+Convergence: 0.023899
+New area: 0.270768
+Iteration 21 time: 12.070998
+
+
+-------------------------------------------------------------------
+Iteration 22
+
+Updating elements density
+Process time: 0.404001 seconds
+
+Updating global matrix
+Process time: 0.209999 seconds
+
+Solving FEM
+Process time: 7.549001 seconds
+
+Solving sensibilities
+Process time: 1.566000 seconds
+
+Filtering sensibilities
+Process time: 2.897999 seconds
+
+Compliance: 0.124933
+Convergence: 0.024332
+New area: 0.265360
+Iteration 22 time: 12.630000
+
+
+-------------------------------------------------------------------
+Iteration 23
+
+Updating elements density
+Process time: 0.424997 seconds
+
+Updating global matrix
+Process time: 0.210005 seconds
+
+Solving FEM
+Process time: 7.580994 seconds
+
+Solving sensibilities
+Process time: 1.549002 seconds
+
+Filtering sensibilities
+Process time: 2.907998 seconds
+
+Compliance: 0.126045
+Convergence: 0.024866
+New area: 0.260064
+Iteration 23 time: 12.674999
+
+
+-------------------------------------------------------------------
+Iteration 24
+
+Updating elements density
+Process time: 0.403003 seconds
+
+Updating global matrix
+Process time: 0.209999 seconds
+
+Solving FEM
+Process time: 7.386999 seconds
+
+Solving sensibilities
+Process time: 1.594000 seconds
+
+Filtering sensibilities
+Process time: 3.876003 seconds
+
+Compliance: 0.127071
+Convergence: 0.025753
+New area: 0.254864
+Iteration 24 time: 13.473005
+
+
+-------------------------------------------------------------------
+Iteration 25
+
+Updating elements density
+Process time: 0.405998 seconds
+
+Updating global matrix
+Process time: 0.210002 seconds
+
+Solving FEM
+Process time: 7.180997 seconds
+
+Solving sensibilities
+Process time: 1.533000 seconds
+
+Filtering sensibilities
+Process time: 2.955000 seconds
+
+Compliance: 0.128283
+Convergence: 0.026935
+New area: 0.249760
+Iteration 25 time: 12.286996
+
+
+-------------------------------------------------------------------
+Iteration 26
+
+Updating elements density
+Process time: 0.390000 seconds
+
+Updating global matrix
+Process time: 0.181000 seconds
+
+Solving FEM
+Process time: 7.009000 seconds
+
+Solving sensibilities
+Process time: 1.498999 seconds
+
+Filtering sensibilities
+Process time: 2.864999 seconds
+
+Compliance: 0.129684
+Convergence: 0.027534
+New area: 0.244768
+Iteration 26 time: 11.948000
+
+
+-------------------------------------------------------------------
+Iteration 27
+
+Updating elements density
+Process time: 0.404997 seconds
+
+Updating global matrix
+Process time: 0.192003 seconds
+
+Solving FEM
+Process time: 7.511998 seconds
+
+Solving sensibilities
+Process time: 1.523999 seconds
+
+Filtering sensibilities
+Process time: 2.915002 seconds
+
+Compliance: 0.131048
+Convergence: 0.028156
+New area: 0.239888
+Iteration 27 time: 12.550001
+
+
+-------------------------------------------------------------------
+Iteration 28
+
+Updating elements density
+Process time: 0.393999 seconds
+
+Updating global matrix
+Process time: 0.187998 seconds
+
+Solving FEM
+Process time: 7.734000 seconds
+
+Solving sensibilities
+Process time: 1.523001 seconds
+
+Filtering sensibilities
+Process time: 2.886001 seconds
+
+Compliance: 0.132739
+Convergence: 0.029013
+New area: 0.235104
+Iteration 28 time: 12.729003
+
+
+-------------------------------------------------------------------
+Iteration 29
+
+Updating elements density
+Process time: 0.402004 seconds
+
+Updating global matrix
+Process time: 0.220997 seconds
+
+Solving FEM
+Process time: 6.947997 seconds
+
+Solving sensibilities
+Process time: 1.721999 seconds
+
+Filtering sensibilities
+Process time: 2.910000 seconds
+
+Compliance: 0.134889
+Convergence: 0.029444
+New area: 0.230400
+Iteration 29 time: 12.204996
+
+
+-------------------------------------------------------------------
+Iteration 30
+
+Updating elements density
+Process time: 0.413000 seconds
+
+Updating global matrix
+Process time: 0.251000 seconds
+
+Solving FEM
+Process time: 7.126000 seconds
+
+Solving sensibilities
+Process time: 1.559000 seconds
+
+Filtering sensibilities
+Process time: 2.907000 seconds
+
+Compliance: 0.135439
+Convergence: 0.030297
+New area: 0.225776
+Iteration 30 time: 12.259000
+
+
+-------------------------------------------------------------------
+Iteration 31
+
+Updating elements density
+Process time: 0.383000 seconds
+
+Updating global matrix
+Process time: 0.201000 seconds
+
+Solving FEM
+Process time: 6.816000 seconds
+
+Solving sensibilities
+Process time: 1.531000 seconds
+
+Filtering sensibilities
+Process time: 2.914000 seconds
+
+Compliance: 0.137028
+Convergence: 0.032520
+New area: 0.221248
+Iteration 31 time: 11.847001
+
+
+-------------------------------------------------------------------
+Iteration 32
+
+Updating elements density
+Process time: 0.391999 seconds
+
+Updating global matrix
+Process time: 0.188005 seconds
+
+Solving FEM
+Process time: 7.094996 seconds
+
+Solving sensibilities
+Process time: 1.537000 seconds
+
+Filtering sensibilities
+Process time: 2.829000 seconds
+
+Compliance: 0.138619
+Convergence: 0.033923
+New area: 0.216832
+Iteration 32 time: 12.043999
+
+
+-------------------------------------------------------------------
+Iteration 33
+
+Updating elements density
+Process time: 0.384001 seconds
+
+Updating global matrix
+Process time: 0.183000 seconds
+
+Solving FEM
+Process time: 6.958000 seconds
+
+Solving sensibilities
+Process time: 1.534000 seconds
+
+Filtering sensibilities
+Process time: 2.840001 seconds
+
+Compliance: 0.140488
+Convergence: 0.035126
+New area: 0.212496
+Iteration 33 time: 11.902001
+
+
+-------------------------------------------------------------------
+Iteration 34
+
+Updating elements density
+Process time: 0.408000 seconds
+
+Updating global matrix
+Process time: 0.199000 seconds
+
+Solving FEM
+Process time: 7.421001 seconds
+
+Solving sensibilities
+Process time: 1.738001 seconds
+
+Filtering sensibilities
+Process time: 2.892998 seconds
+
+Compliance: 0.141745
+Convergence: 0.036584
+New area: 0.208256
+Iteration 34 time: 12.661998
+
+
+-------------------------------------------------------------------
+Iteration 35
+
+Updating elements density
+Process time: 0.384998 seconds
+
+Updating global matrix
+Process time: 0.173999 seconds
+
+Solving FEM
+Process time: 6.929000 seconds
+
+Solving sensibilities
+Process time: 1.559000 seconds
+
+Filtering sensibilities
+Process time: 2.871999 seconds
+
+Compliance: 0.143502
+Convergence: 0.037638
+New area: 0.204096
+Iteration 35 time: 11.921001
+
+
+-------------------------------------------------------------------
+Iteration 36
+
+Updating elements density
+Process time: 0.386999 seconds
+
+Updating global matrix
+Process time: 0.183999 seconds
+
+Solving FEM
+Process time: 7.675001 seconds
+
+Solving sensibilities
+Process time: 1.549999 seconds
+
+Filtering sensibilities
+Process time: 2.913002 seconds
+
+Compliance: 0.145225
+Convergence: 0.036675
+New area: 0.200000
+Iteration 36 time: 12.712002
+
+
+-------------------------------------------------------------------
+Iteration 37
+
+Updating elements density
+Process time: 0.386999 seconds
+
+Updating global matrix
+Process time: 0.184000 seconds
+
+Solving FEM
+Process time: 7.874996 seconds
+
+Solving sensibilities
+Process time: 1.549001 seconds
+
+Filtering sensibilities
+Process time: 2.885999 seconds
+
+Compliance: 0.146945
+Convergence: 0.037582
+New area: 0.196000
+Iteration 37 time: 12.883999
+
+
+-------------------------------------------------------------------
+Iteration 38
+
+Updating elements density
+Process time: 0.386003 seconds
+
+Updating global matrix
+Process time: 0.178002 seconds
+
+Solving FEM
+Process time: 7.499998 seconds
+
+Solving sensibilities
+Process time: 1.538998 seconds
+
+Filtering sensibilities
+Process time: 2.921000 seconds
+
+Compliance: 0.148817
+Convergence: 0.038435
+New area: 0.192064
+Iteration 38 time: 12.526000
+
+
+-------------------------------------------------------------------
+Iteration 39
+
+Updating elements density
+Process time: 0.395000 seconds
+
+Updating global matrix
+Process time: 0.167001 seconds
+
+Solving FEM
+Process time: 7.526999 seconds
+
+Solving sensibilities
+Process time: 1.563003 seconds
+
+Filtering sensibilities
+Process time: 2.869998 seconds
+
+Compliance: 0.150648
+Convergence: 0.039189
+New area: 0.188224
+Iteration 39 time: 12.524001
+
+
+-------------------------------------------------------------------
+Iteration 40
+
+Updating elements density
+Process time: 0.401999 seconds
+
+Updating global matrix
+Process time: 0.165999 seconds
+
+Solving FEM
+Process time: 7.729998 seconds
+
+Solving sensibilities
+Process time: 1.544000 seconds
+
+Filtering sensibilities
+Process time: 2.945001 seconds
+
+Compliance: 0.152698
+Convergence: 0.039770
+New area: 0.184464
+Iteration 40 time: 12.789999
+
+
+-------------------------------------------------------------------
+Iteration 41
+
+Updating elements density
+Process time: 0.377001 seconds
+
+Updating global matrix
+Process time: 0.172999 seconds
+
+Solving FEM
+Process time: 7.554999 seconds
+
+Solving sensibilities
+Process time: 1.545001 seconds
+
+Filtering sensibilities
+Process time: 3.186999 seconds
+
+Compliance: 0.154674
+Convergence: 0.041819
+New area: 0.180784
+Iteration 41 time: 12.839999
+
+
+-------------------------------------------------------------------
+Iteration 42
+
+Updating elements density
+Process time: 0.392002 seconds
+
+Updating global matrix
+Process time: 0.179996 seconds
+
+Solving FEM
+Process time: 7.725002 seconds
+
+Solving sensibilities
+Process time: 1.615999 seconds
+
+Filtering sensibilities
+Process time: 2.950000 seconds
+
+Compliance: 0.158400
+Convergence: 0.042952
+New area: 0.177184
+Iteration 42 time: 12.865001
+
+
+-------------------------------------------------------------------
+Iteration 43
+
+Updating elements density
+Process time: 0.376000 seconds
+
+Updating global matrix
+Process time: 0.249000 seconds
+
+Solving FEM
+Process time: 7.146999 seconds
+
+Solving sensibilities
+Process time: 1.528999 seconds
+
+Filtering sensibilities
+Process time: 2.901001 seconds
+
+Compliance: 0.159341
+Convergence: 0.044204
+New area: 0.173648
+Iteration 43 time: 12.204000
+
+
+-------------------------------------------------------------------
+Iteration 44
+
+Updating elements density
+Process time: 0.391003 seconds
+
+Updating global matrix
+Process time: 0.178997 seconds
+
+Solving FEM
+Process time: 7.501004 seconds
+
+Solving sensibilities
+Process time: 1.536995 seconds
+
+Filtering sensibilities
+Process time: 2.887000 seconds
+
+Compliance: 0.160660
+Convergence: 0.047333
+New area: 0.170160
+Iteration 44 time: 12.496999
+
+
+-------------------------------------------------------------------
+Iteration 45
+
+Updating elements density
+Process time: 0.370001 seconds
+
+Updating global matrix
+Process time: 0.162000 seconds
+
+Solving FEM
+Process time: 7.530000 seconds
+
+Solving sensibilities
+Process time: 1.556000 seconds
+
+Filtering sensibilities
+Process time: 2.872001 seconds
+
+Compliance: 0.164388
+Convergence: 0.049527
+New area: 0.166768
+Iteration 45 time: 12.492001
+
+
+-------------------------------------------------------------------
+Iteration 46
+
+Updating elements density
+Process time: 0.370001 seconds
+
+Updating global matrix
+Process time: 0.171999 seconds
+
+Solving FEM
+Process time: 7.563000 seconds
+
+Solving sensibilities
+Process time: 1.608000 seconds
+
+Filtering sensibilities
+Process time: 2.872000 seconds
+
+Compliance: 0.165144
+Convergence: 0.050635
+New area: 0.163424
+Iteration 46 time: 12.586999
+
+
+-------------------------------------------------------------------
+Iteration 47
+
+Updating elements density
+Process time: 0.371000 seconds
+
+Updating global matrix
+Process time: 0.135000 seconds
+
+Solving FEM
+Process time: 6.858999 seconds
+
+Solving sensibilities
+Process time: 1.559001 seconds
+
+Filtering sensibilities
+Process time: 2.892002 seconds
+
+Compliance: 6.742540
+Convergence: 0.053128
+New area: 0.160144
+Iteration 47 time: 11.818003
+
+
+-------------------------------------------------------------------
+Iteration 48
+
+Updating elements density
+Process time: 0.578997 seconds
+
+Updating global matrix
+Process time: 0.390000 seconds
+
+Solving FEM
+Process time: 6.825001 seconds
+
+Solving sensibilities
+Process time: 1.542999 seconds
+
+Filtering sensibilities
+Process time: 3.021000 seconds
+
+Compliance: 0.171753
+Convergence: 0.054150
+New area: 0.156944
+Iteration 48 time: 12.359997
+
+
+-------------------------------------------------------------------
+Iteration 49
+
+Updating elements density
+Process time: 0.651003 seconds
+
+Updating global matrix
+Process time: 0.174998 seconds
+
+Solving FEM
+Process time: 7.138999 seconds
+
+Solving sensibilities
+Process time: 1.571997 seconds
+
+Filtering sensibilities
+Process time: 2.882003 seconds
+
+Compliance: 0.173708
+Convergence: 6.626835
+New area: 0.153808
+Iteration 49 time: 12.422000
+
+
+-------------------------------------------------------------------
+Iteration 50
+
+Updating elements density
+Process time: 0.555006 seconds
+
+Updating global matrix
+Process time: 0.136995 seconds
+
+Solving FEM
+Process time: 7.193000 seconds
+
+Solving sensibilities
+Process time: 1.618000 seconds
+
+Filtering sensibilities
+Process time: 2.953000 seconds
+
+Compliance: 0.175863
+Convergence: 6.628723
+New area: 0.150720
+Iteration 50 time: 12.459000
+
+
+-------------------------------------------------------------------
+Iteration 51
+
+Updating elements density
+Process time: 0.528999 seconds
+
+Updating global matrix
+Process time: 0.125996 seconds
+
+Solving FEM
+Process time: 7.168999 seconds
+
+Solving sensibilities
+Process time: 1.539001 seconds
+
+Filtering sensibilities
+Process time: 2.905998 seconds
+
+Compliance: 0.178722
+Convergence: 6.631760
+New area: 0.147696
+Iteration 51 time: 12.272000
+
+
+-------------------------------------------------------------------
+Iteration 52
+
+Updating elements density
+Process time: 0.525007 seconds
+
+Updating global matrix
+Process time: 0.134993 seconds
+
+Solving FEM
+Process time: 7.290000 seconds
+
+Solving sensibilities
+Process time: 1.555000 seconds
+
+Filtering sensibilities
+Process time: 2.889000 seconds
+
+Compliance: 0.180987
+Convergence: 6.631546
+New area: 0.144736
+Iteration 52 time: 12.396001
+
+
+-------------------------------------------------------------------
+Iteration 53
+
+Updating elements density
+Process time: 0.524000 seconds
+
+Updating global matrix
+Process time: 0.128999 seconds
+
+Solving FEM
+Process time: 7.028000 seconds
+
+Solving sensibilities
+Process time: 1.570001 seconds
+
+Filtering sensibilities
+Process time: 3.217000 seconds
+
+Compliance: 0.183601
+Convergence: 6.634654
+New area: 0.141856
+Iteration 53 time: 12.470999
+
+
+-------------------------------------------------------------------
+Iteration 54
+
+Updating elements density
+Process time: 0.515000 seconds
+
+Updating global matrix
+Process time: 0.128001 seconds
+
+Solving FEM
+Process time: 7.585998 seconds
+
+Solving sensibilities
+Process time: 1.565002 seconds
+
+Filtering sensibilities
+Process time: 3.098999 seconds
+
+Compliance: 0.186334
+Convergence: -6.511039
+New area: 0.139008
+Iteration 54 time: 12.896001
+
+
+-------------------------------------------------------------------
+Iteration 55
+
+Updating elements density
+Process time: 0.486999 seconds
+
+Updating global matrix
+Process time: 0.134000 seconds
+
+Solving FEM
+Process time: 7.091004 seconds
+
+Solving sensibilities
+Process time: 1.561997 seconds
+
+Filtering sensibilities
+Process time: 2.928001 seconds
+
+Compliance: 0.189374
+Convergence: -6.511603
+New area: 0.136240
+Iteration 55 time: 12.204001
+
+
+-------------------------------------------------------------------
+Iteration 56
+
+Updating elements density
+Process time: 0.478000 seconds
+
+Updating global matrix
+Process time: 0.144000 seconds
+
+Solving FEM
+Process time: 7.370000 seconds
+
+Solving sensibilities
+Process time: 1.571999 seconds
+
+Filtering sensibilities
+Process time: 2.885000 seconds
+
+Compliance: 0.201669
+Convergence: -6.512025
+New area: 0.133504
+Iteration 56 time: 12.450998
+
+
+-------------------------------------------------------------------
+Iteration 57
+
+Updating elements density
+Process time: 0.457008 seconds
+
+Updating global matrix
+Process time: 0.289993 seconds
+
+Solving FEM
+Process time: 7.346001 seconds
+
+Solving sensibilities
+Process time: 1.568000 seconds
+
+Filtering sensibilities
+Process time: 2.895000 seconds
+
+Compliance: 0.200632
+Convergence: -6.509990
+New area: 0.130832
+Iteration 57 time: 12.559001
+
+
+-------------------------------------------------------------------
+Iteration 58
+
+Updating elements density
+Process time: 0.465001 seconds
+
+Updating global matrix
+Process time: 0.240999 seconds
+
+Solving FEM
+Process time: 7.601005 seconds
+
+Solving sensibilities
+Process time: 1.921996 seconds
+
+Filtering sensibilities
+Process time: 2.880002 seconds
+
+Compliance: 0.204241
+Convergence: -6.500621
+New area: 0.128208
+Iteration 58 time: 13.113001
+
+
+-------------------------------------------------------------------
+Iteration 59
+
+Updating elements density
+Process time: 0.461001 seconds
+
+Updating global matrix
+Process time: 0.248999 seconds
+
+Solving FEM
+Process time: 6.931999 seconds
+
+Solving sensibilities
+Process time: 1.566000 seconds
+
+Filtering sensibilities
+Process time: 2.877999 seconds
+
+Compliance: 0.232000
+Convergence: 0.080577
+New area: 0.125648
+Iteration 59 time: 12.089000
+
+
+-------------------------------------------------------------------
+Iteration 60
+
+Updating elements density
+Process time: 0.421999 seconds
+
+Updating global matrix
+Process time: 0.429001 seconds
+
+Solving FEM
+Process time: 7.565000 seconds
+
+Solving sensibilities
+Process time: 1.568000 seconds
+
+Filtering sensibilities
+Process time: 2.910001 seconds
+
+Compliance: 0.220880
+Convergence: 0.089369
+New area: 0.124144
+Iteration 60 time: 12.896000
+
+
+-------------------------------------------------------------------
+Iteration 61
+
+Updating elements density
+Process time: 0.520001 seconds
+
+Updating global matrix
+Process time: 0.309000 seconds
+
+Solving FEM
+Process time: 7.112002 seconds
+
+Solving sensibilities
+Process time: 1.542997 seconds
+
+Filtering sensibilities
+Process time: 2.902000 seconds
+
+Compliance: 0.219864
+Convergence: 0.122409
+New area: 0.124160
+Iteration 61 time: 12.389999
+
+
+-------------------------------------------------------------------
+Iteration 62
+
+Updating elements density
+Process time: 0.389001 seconds
+
+Updating global matrix
+Process time: 0.344999 seconds
+
+Solving FEM
+Process time: 7.046000 seconds
+
+Solving sensibilities
+Process time: 1.565001 seconds
+
+Filtering sensibilities
+Process time: 2.858000 seconds
+
+Compliance: 0.210746
+Convergence: 0.140404
+New area: 0.124144
+Iteration 62 time: 12.205001
+
+
+-------------------------------------------------------------------
+Iteration 63
+
+Updating elements density
+Process time: 0.374001 seconds
+
+Updating global matrix
+Process time: 0.165000 seconds
+
+Solving FEM
+Process time: 7.605000 seconds
+
+Solving sensibilities
+Process time: 1.559003 seconds
+
+Filtering sensibilities
+Process time: 2.916998 seconds
+
+Compliance: 0.207266
+Convergence: 0.135652
+New area: 0.124160
+Iteration 63 time: 12.623000
+
+
+-------------------------------------------------------------------
+Iteration 64
+
+Updating elements density
+Process time: 0.384001 seconds
+
+Updating global matrix
+Process time: 0.087999 seconds
+
+Solving FEM
+Process time: 7.321998 seconds
+
+Solving sensibilities
+Process time: 1.570001 seconds
+
+Filtering sensibilities
+Process time: 2.913000 seconds
+
+Compliance: 0.206319
+Convergence: 0.126122
+New area: 0.124144
+Iteration 64 time: 12.280999
+
+
+-------------------------------------------------------------------
+Iteration 65
+
+Updating elements density
+Process time: 0.371000 seconds
+
+Updating global matrix
+Process time: 0.062998 seconds
+
+Solving FEM
+Process time: 7.089000 seconds
+
+Solving sensibilities
+Process time: 1.547001 seconds
+
+Filtering sensibilities
+Process time: 3.158998 seconds
+
+Compliance: 0.205878
+Convergence: 0.108506
+New area: 0.124160
+Iteration 65 time: 12.233001
+
+
+-------------------------------------------------------------------
+Iteration 66
+
+Updating elements density
+Process time: 0.369006 seconds
+
+Updating global matrix
+Process time: 0.058995 seconds
+
+Solving FEM
+Process time: 7.157000 seconds
+
+Solving sensibilities
+Process time: 1.569000 seconds
+
+Filtering sensibilities
+Process time: 2.864999 seconds
+
+Compliance: 0.205421
+Convergence: 0.037158
+New area: 0.124160
+Iteration 66 time: 12.020998
+
+
+-------------------------------------------------------------------
+Iteration 67
+
+Updating elements density
+Process time: 0.370000 seconds
+
+Updating global matrix
+Process time: 0.053000 seconds
+
+Solving FEM
+Process time: 7.072000 seconds
+
+Solving sensibilities
+Process time: 1.566000 seconds
+
+Filtering sensibilities
+Process time: 2.862000 seconds
+
+Compliance: 0.205314
+Convergence: -0.009349
+New area: 0.124144
+Iteration 67 time: 11.926001
+
+
+-------------------------------------------------------------------
+Iteration 68
+
+Updating elements density
+Process time: 0.391999 seconds
+
+Updating global matrix
+Process time: 0.064001 seconds
+
+Solving FEM
+Process time: 7.066001 seconds
+
+Solving sensibilities
+Process time: 1.550000 seconds
+
+Filtering sensibilities
+Process time: 2.960000 seconds
+
+Compliance: 0.204827
+Convergence: -0.041988
+New area: 0.124144
+Iteration 68 time: 12.035001
+
+
+-------------------------------------------------------------------
+Iteration 69
+
+Updating elements density
+Process time: 0.372000 seconds
+
+Updating global matrix
+Process time: 0.057999 seconds
+
+Solving FEM
+Process time: 7.387001 seconds
+
+Solving sensibilities
+Process time: 1.569999 seconds
+
+Filtering sensibilities
+Process time: 2.899999 seconds
+
+Compliance: 0.204665
+Convergence: -0.057534
+New area: 0.124144
+Iteration 69 time: 12.289999
+
+
+-------------------------------------------------------------------
+Iteration 70
+
+Updating elements density
+Process time: 0.374999 seconds
+
+Updating global matrix
+Process time: 0.060997 seconds
+
+Solving FEM
+Process time: 7.213000 seconds
+
+Solving sensibilities
+Process time: 1.569003 seconds
+
+Filtering sensibilities
+Process time: 3.246996 seconds
+
+Compliance: 0.204625
+Convergence: -0.062997
+New area: 0.124144
+Iteration 70 time: 12.468999
+
+
+-------------------------------------------------------------------
+Iteration 71
+
+Updating elements density
+Process time: 0.383000 seconds
+
+Updating global matrix
+Process time: 0.064001 seconds
+
+Solving FEM
+Process time: 7.243000 seconds
+
+Solving sensibilities
+Process time: 1.588000 seconds
+
+Filtering sensibilities
+Process time: 2.882000 seconds
+
+Compliance: 0.204383
+Convergence: -0.038969
+New area: 0.124160
+Iteration 71 time: 12.163001
+
+
+-------------------------------------------------------------------
+Iteration 72
+
+Updating elements density
+Process time: 0.370998 seconds
+
+Updating global matrix
+Process time: 0.054002 seconds
+
+Solving FEM
+Process time: 7.296003 seconds
+
+Solving sensibilities
+Process time: 1.557997 seconds
+
+Filtering sensibilities
+Process time: 2.887000 seconds
+
+Compliance: 0.204216
+Convergence: -0.025220
+New area: 0.124160
+Iteration 72 time: 12.169000
+
+
+-------------------------------------------------------------------
+Iteration 73
+
+Updating elements density
+Process time: 0.377001 seconds
+
+Updating global matrix
+Process time: 0.056000 seconds
+
+Solving FEM
+Process time: 7.373000 seconds
+
+Solving sensibilities
+Process time: 1.573000 seconds
+
+Filtering sensibilities
+Process time: 2.902000 seconds
+
+Compliance: 0.204204
+Convergence: -0.011816
+New area: 0.124160
+Iteration 73 time: 12.283000
+
+
+-------------------------------------------------------------------
+Iteration 74
+
+Updating elements density
+Process time: 0.376001 seconds
+
+Updating global matrix
+Process time: 0.055002 seconds
+
+Solving FEM
+Process time: 6.994995 seconds
+
+Solving sensibilities
+Process time: 1.574000 seconds
+
+Filtering sensibilities
+Process time: 2.896001 seconds
+
+Compliance: 0.204143
+Convergence: -0.007482
+New area: 0.124144
+Iteration 74 time: 11.900001
+
+
+-------------------------------------------------------------------
+Iteration 75
+
+Updating elements density
+Process time: 0.386999 seconds
+
+Updating global matrix
+Process time: 0.055001 seconds
+
+Solving FEM
+Process time: 7.223999 seconds
+
+Solving sensibilities
+Process time: 1.633999 seconds
+
+Filtering sensibilities
+Process time: 3.102001 seconds
+
+Compliance: 0.203995
+Convergence: -0.005667
+New area: 0.124144
+Iteration 75 time: 12.404000
+
+
+-------------------------------------------------------------------
+Iteration 76
+
+Updating elements density
+Process time: 0.381002 seconds
+
+Updating global matrix
+Process time: 0.040997 seconds
+
+Solving FEM
+Process time: 6.740000 seconds
+
+Solving sensibilities
+Process time: 1.568003 seconds
+
+Filtering sensibilities
+Process time: 2.869999 seconds
+
+Compliance: 0.203935
+Convergence: -0.004536
+New area: 0.124160
+Iteration 76 time: 11.602002
+
+
+-------------------------------------------------------------------
+Iteration 77
+
+Updating elements density
+Process time: 0.376999 seconds
+
+Updating global matrix
+Process time: 0.043000 seconds
+
+Solving FEM
+Process time: 6.969000 seconds
+
+Solving sensibilities
+Process time: 1.556999 seconds
+
+Filtering sensibilities
+Process time: 2.857999 seconds
+
+Compliance: 0.203913
+Convergence: -0.003912
+New area: 0.124144
+Iteration 77 time: 11.806996
+
+
+-------------------------------------------------------------------
+Iteration 78
+
+Updating elements density
+Process time: 0.383000 seconds
+
+Updating global matrix
+Process time: 0.046001 seconds
+
+Solving FEM
+Process time: 6.992000 seconds
+
+Solving sensibilities
+Process time: 1.553004 seconds
+
+Filtering sensibilities
+Process time: 2.852995 seconds
+
+Compliance: 0.203721
+Convergence: -0.003322
+New area: 0.124160
+Iteration 78 time: 11.831001
+
+
+-------------------------------------------------------------------
+Iteration 79
+
+Updating elements density
+Process time: 0.375003 seconds
+
+Updating global matrix
+Process time: 0.045998 seconds
+
+Solving FEM
+Process time: 6.873998 seconds
+
+Solving sensibilities
+Process time: 1.573002 seconds
+
+Filtering sensibilities
+Process time: 2.897998 seconds
+
+Compliance: 0.203721
+Convergence: -0.002526
+New area: 0.124144
+Iteration 79 time: 11.769000
+
+
+-------------------------------------------------------------------
+Iteration 80
+
+Updating elements density
+Process time: 0.378001 seconds
+
+Updating global matrix
+Process time: 0.043000 seconds
+
+Solving FEM
+Process time: 6.916999 seconds
+
+Solving sensibilities
+Process time: 1.566003 seconds
+
+Filtering sensibilities
+Process time: 3.218998 seconds
+
+Compliance: 0.203665
+Convergence: -0.002385
+New area: 0.124144
+Iteration 80 time: 12.125001
+
+
+-------------------------------------------------------------------
+Iteration 81
+
+Updating elements density
+Process time: 0.381002 seconds
+
+Updating global matrix
+Process time: 0.045999 seconds
+
+Solving FEM
+Process time: 6.964999 seconds
+
+Solving sensibilities
+Process time: 1.546000 seconds
+
+Filtering sensibilities
+Process time: 2.872999 seconds
+
+Compliance: 0.203639
+Convergence: -0.002285
+New area: 0.124144
+Iteration 81 time: 11.812999
+
+
+-------------------------------------------------------------------
+Iteration 82
+
+Updating elements density
+Process time: 0.373001 seconds
+
+Updating global matrix
+Process time: 0.049000 seconds
+
+Solving FEM
+Process time: 6.799001 seconds
+
+Solving sensibilities
+Process time: 1.558000 seconds
+
+Filtering sensibilities
+Process time: 2.906999 seconds
+
+Compliance: 0.203618
+Convergence: -0.001985
+New area: 0.124144
+Iteration 82 time: 11.688000
+
+
+-------------------------------------------------------------------
+Iteration 83
+
+Updating elements density
+Process time: 0.380000 seconds
+
+Updating global matrix
+Process time: 0.045004 seconds
+
+Solving FEM
+Process time: 6.805996 seconds
+
+Solving sensibilities
+Process time: 1.540002 seconds
+
+Filtering sensibilities
+Process time: 2.923002 seconds
+
+Compliance: 0.203896
+Convergence: -0.001833
+New area: 0.124144
+Iteration 83 time: 11.697005
+
+
+-------------------------------------------------------------------
+Iteration 84
+
+Updating elements density
+Process time: 0.372007 seconds
+
+Updating global matrix
+Process time: 0.050993 seconds
+
+Solving FEM
+Process time: 6.766003 seconds
+
+Solving sensibilities
+Process time: 1.550997 seconds
+
+Filtering sensibilities
+Process time: 2.884000 seconds
+
+Compliance: 0.203622
+Convergence: -0.001826
+New area: 0.124160
+Iteration 84 time: 11.627996
+
+
+-------------------------------------------------------------------
+Iteration 85
+
+Updating elements density
+Process time: 0.380002 seconds
+
+Updating global matrix
+Process time: 0.043998 seconds
+
+Solving FEM
+Process time: 6.607004 seconds
+
+Solving sensibilities
+Process time: 1.569994 seconds
+
+Filtering sensibilities
+Process time: 3.175003 seconds
+
+Compliance: 0.203559
+Convergence: -0.001168
+New area: 0.124144
+Iteration 85 time: 11.780000
+
+
+-------------------------------------------------------------------
+Iteration 86
+
+Updating elements density
+Process time: 0.431005 seconds
+
+Updating global matrix
+Process time: 0.050997 seconds
+
+Solving FEM
+Process time: 7.035000 seconds
+
+Solving sensibilities
+Process time: 1.556000 seconds
+
+Filtering sensibilities
+Process time: 2.877002 seconds
+
+Compliance: 0.203586
+Convergence: -0.000845
+New area: 0.124144
+Iteration 86 time: 11.953003
+
+Plotting resultsProcess time: 0.897996 seconds
+
+Total time: 1258.404994 seconds
+Average iteration time: 12.286140 seconds

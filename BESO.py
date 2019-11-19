@@ -74,7 +74,7 @@ def filter_sensibilities(sensibilities, all_elements_on_filtering_radius, filter
             sensibilitie_index = elements_on_filtering_radius[index]
             element_sensibilitie = element_sensibilitie + element_filtering_weights[index] * sensibilities[sensibilitie_index]
         element_sensibilitie = element_sensibilitie / sum(element_filtering_weights)
-        filtered_sensibilities.append(element_sensibilitie)
+        filtered_sensibilities.append(element_sensibilitie[0])
 
     return filtered_sensibilities
 

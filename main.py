@@ -19,7 +19,7 @@ if __name__ == '__main__':
                                                   date_and_time.hour, date_and_time.minute, date_and_time.second)
     if not os.path.exists(result_path):
         os.mkdir(result_path)
-
+    
     console_output = open(result_path + '/' + 'console output.txt', 'w+')
     console_output.write('2D Bidirectional Evolutionary Structural Optimization\n')
     console_output.write('Initializing\n')
@@ -33,7 +33,7 @@ if __name__ == '__main__':
 
     console_output.write('done\n')
 
-    plt.ioff()
+    #plt.ioff()
     complete_start_time = time.time()
     print('Getting proprieties, this will take a while')
     console_output.write('Getting proprieties\n')

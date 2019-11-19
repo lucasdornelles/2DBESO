@@ -122,8 +122,8 @@ def solve_fem(global_matrix, load_vector):
     # global matrix is formatted to csr and indices and indptr dtypes to int64 to use 64bits umfpack
 
     csr_global_matrix = global_matrix.tocsr()
-    csr_global_matrix.indices, csr_global_matrix.indptr = csr_global_matrix.indices.astype('int64'), \
-                                                           csr_global_matrix.indptr.astype('int64')
+    #csr_global_matrix.indices, csr_global_matrix.indptr = csr_global_matrix.indices.astype('int64'), \
+    #                                                      csr_global_matrix.indptr.astype('int64')
 
     displacements = spsolve(csr_global_matrix, load_vector, use_umfpack=True)
 

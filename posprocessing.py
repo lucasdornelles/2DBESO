@@ -41,7 +41,7 @@ def get_triangulation(connectivity):
 
 def get_mask(elements_density):
 
-    # return a elements density mask for use on tri.Triangulatio()
+    # return a elements density mask for use on tri.Triangulation()
 
     mask = list(roundrobin(elements_density, elements_density))
     for i in range(len(mask)):
